@@ -1,12 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SSSehaj.visitor-badge" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Paksh+Sawariya!;" />
-</h1>
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Paksh+Sawariya!;"/></h1>
+<hr>
 <h3 align="center">A passionate young developer from India 🌍</h3>
-
-<br/>
 
 <div align="center">
  
@@ -29,33 +26,29 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
+<hr>
 <h2 align="center">💻 Languages Frameworks Tools</h2>
-<br>
+<br></br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,java" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java" />
 </div>
-</br>
+<hr>
+<p>
+I’m on a quest to explore the vast universe of technology and code, blending creativity with innovation. As a student coder with a knack for leadership, I’m always on the lookout for new challenges and learning opportunities. Whether I’m debugging lines of code or brainstorming the next big tech startup, my mission is to transform ideas into reality.
 
-<h2 align="center">⚡ Stats ⚡</h2>
+🚀 **What I Do:**
+- **Coding Explorer:** From crafting sleek algorithms to diving into emerging tech trends, I’m constantly experimenting and expanding my coding horizons.
+- **Entrepreneurial Spirit:** I’m not just coding for fun—I’m driven by a vision to create impactful tech solutions and make a mark in the startup world.
+- **Tech Club Enthusiast:** As an active member of my college’s tech club, I thrive in collaborative environments and love sharing knowledge with fellow tech enthusiasts.
 <br>
-<div align=center>
-<img width=390 alt="My Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=SSSehaj" />
-  
-  
-  <br/>
-  <img width=325 align="center" src=
-</div>
 
-<br/><br/>
+🔧 **Skills:**
+- **Leadership:** Guiding teams with vision and enthusiasm to turn ambitious projects into successful realities.
+- **Innovation:** Harnessing creativity to solve complex problems and bring fresh ideas to life.
+- **Tech Savvy:** Staying ahead of the curve with a passion for the latest technologies and coding practices.
 
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+Join me on my journey as I code, create, and conquer new challenges in the tech landscape. Let’s connect, collaborate, and innovate together!</p>
 </div>
 
 <br/>
